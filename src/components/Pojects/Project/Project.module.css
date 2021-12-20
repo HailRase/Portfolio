@@ -6,8 +6,9 @@
     text-align: left;
 }
 .image {
+    height: 300px;
     background-image: url("https://clickup.com/blog/wp-content/uploads/2019/01/to-do-list-apps.png");
-    background-size: 100%;
+    background-size: cover;
     background-position: center center;
     display: flex;
     justify-content: center;
