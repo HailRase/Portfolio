@@ -1,0 +1,20 @@
+.content {
+    height: 100vh;
+    background-color: #c5ce95;
+}
+
+.contentContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.welcome {
+    width: 300px;
+    background-color: rgba(5,5,19,0.63);
+}
+.photo {
+    width: 300px;
+    height: 400px;
+    background-color: rgba(5,5,19,0.63);
+}
