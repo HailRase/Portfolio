@@ -6,13 +6,13 @@ const Contacts = () => {
     return (
         <div className={s.contactsBlock}>
             <div className={`${sc.container} ${s.contactsContainer}`}>
-                <h2>Контакты</h2>
+                <h2>Contacts</h2>
                 <form className={s.form}>
                     <input type="text"/>
                     <input type="text"/>
                     <textarea rows={8}></textarea>
                 </form>
-                <button className={s.button}>Отправить</button>
+                <button className={s.button}>Send</button>
             </div>
         </div>
     );
